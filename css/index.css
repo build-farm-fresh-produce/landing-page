@@ -145,6 +145,30 @@ h5 {
   letter-spacing: 1px;
   margin-bottom: 15px;
 }
+h1 {
+  font-size: 280%;
+}
+h2 {
+  font-size: 200%;
+}
+h3 {
+  font-size: 140%;
+}
+nav {
+  display: flex;
+  justify-content: center;
+  background-color: lightgreen;
+  padding: 2%;
+}
+a {
+  font-size: 120%;
+  margin: 1%;
+}
+footer {
+  padding: 2%;
+  background-color: skyblue;
+  font-size: 110%;
+}
 .images {
   width: 20%;
   height: 20vh;
