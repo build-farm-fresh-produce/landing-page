@@ -1,12 +1,13 @@
 .image {
-  width: 35%;
-  height: 35vh;
+  width: 40%;
+  height: 40vh;
   border-radius: 5%;
   border: 1px solid midnightblue;
   margin-bottom: 2%;
   margin-top: 1%;
 }
 .paragraphmodel {
+  margin-top: 2%;
   border: 1px solid black;
   border-radius: 12%;
   text-align: center;
@@ -179,7 +180,7 @@ h3 {
 nav {
   display: flex;
   justify-content: center;
-  background-color: lightgreen;
+  background-color: green;
   padding: 2%;
   margin-bottom: 1%;
 }
@@ -198,8 +199,8 @@ footer {
 .images {
   width: 20%;
   height: 20vh;
-  width: 35%;
-  height: 35vh;
+  width: 40%;
+  height: 40vh;
   border-radius: 5%;
   border: 1px solid midnightblue;
   margin-bottom: 2%;
@@ -219,6 +220,7 @@ p {
 }
 .find p {
   margin-right: 18%;
+  margin-top: 2%;
   border: 1px solid black;
   border-radius: 12%;
   text-align: center;
@@ -231,6 +233,7 @@ p {
 }
 .connect p {
   margin-left: 18%;
+  margin-top: 2%;
   border: 1px solid black;
   border-radius: 12%;
   text-align: center;
@@ -242,6 +245,7 @@ p {
 }
 .advertise p {
   margin-right: 18%;
+  margin-top: 2%;
   border: 1px solid black;
   border-radius: 12%;
   text-align: center;
@@ -253,6 +257,7 @@ p {
   flex-direction: row-reverse;
 }
 .reachout p {
+  margin-top: 2%;
   border: 1px solid black;
   border-radius: 12%;
   text-align: center;
