@@ -1,2 +1,4 @@
 # landing-page
 [![Netlify Status](https://api.netlify.com/api/v1/badges/521699fa-e263-4d9c-9358-aacb95e0b6e2/deploy-status)](https://app.netlify.com/sites/wizardly-swanson-fefda0/deploys)
+
+This landing page was created for the purpose of drawing customers and farmers to the farm fresh produce app. This app helps people connect the farmers in their community, and allows farmers to advertise their goods. This landing page was created by Aaron J. Mendez, and is one of three. The other two were created by Ryan Mersmann and Ramona Lucius. The app was created by intermediate and advanced react developers Jacob VanWormer, Adella K, Jane Suh, and Joshua Humphrey, with Charlie Montoya as our back end developer.
