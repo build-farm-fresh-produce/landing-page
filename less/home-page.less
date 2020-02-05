@@ -3,9 +3,14 @@
     height: 20vh;
     .image();
 }
+h3{
+    text-align: center;
+    font-size: 170%;
+}
 
 p{
     width: 45%;
+    margin-bottom: 2%;
 }
 
 .find{
@@ -13,6 +18,7 @@ p{
 
     p{
         margin-right: @margin;
+        .paragraphmodel();
     }
     
     
@@ -23,18 +29,21 @@ p{
 
     p{
         margin-left: @margin;
+        .paragraphmodel();
     }
 }
 .advertise{
     display: flex;
     p{
         margin-right: @margin;
+        .paragraphmodel();
     }
 }
 .reachout{
     display: flex;
     flex-direction: row-reverse;
     p{
+        .paragraphmodel();
         margin-left: @margin;
     }
 }

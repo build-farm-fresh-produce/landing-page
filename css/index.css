@@ -6,6 +6,13 @@
   margin-bottom: 2%;
   margin-top: 1%;
 }
+.paragraphmodel {
+  border: 1px solid black;
+  border-radius: 12%;
+  text-align: center;
+  padding: 3% 2% 0% 2%;
+  background-color: rgba(245, 237, 237, 0.5);
+}
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
@@ -198,14 +205,24 @@ footer {
   margin-bottom: 2%;
   margin-top: 1%;
 }
+h3 {
+  text-align: center;
+  font-size: 170%;
+}
 p {
   width: 45%;
+  margin-bottom: 2%;
 }
 .find {
   display: flex;
 }
 .find p {
   margin-right: 18%;
+  border: 1px solid black;
+  border-radius: 12%;
+  text-align: center;
+  padding: 3% 2% 0% 2%;
+  background-color: rgba(245, 237, 237, 0.5);
 }
 .connect {
   display: flex;
@@ -213,17 +230,32 @@ p {
 }
 .connect p {
   margin-left: 18%;
+  border: 1px solid black;
+  border-radius: 12%;
+  text-align: center;
+  padding: 3% 2% 0% 2%;
+  background-color: rgba(245, 237, 237, 0.5);
 }
 .advertise {
   display: flex;
 }
 .advertise p {
   margin-right: 18%;
+  border: 1px solid black;
+  border-radius: 12%;
+  text-align: center;
+  padding: 3% 2% 0% 2%;
+  background-color: rgba(245, 237, 237, 0.5);
 }
 .reachout {
   display: flex;
   flex-direction: row-reverse;
 }
 .reachout p {
+  border: 1px solid black;
+  border-radius: 12%;
+  text-align: center;
+  padding: 3% 2% 0% 2%;
+  background-color: rgba(245, 237, 237, 0.5);
   margin-left: 18%;
 }
