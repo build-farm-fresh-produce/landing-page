@@ -2,7 +2,7 @@
   width: 35%;
   height: 35vh;
   border-radius: 5%;
-  border: 1px solid steelblue;
+  border: 1px solid midnightblue;
   margin-bottom: 2%;
   margin-top: 1%;
 }
@@ -201,10 +201,10 @@ footer {
   width: 35%;
   height: 35vh;
   border-radius: 5%;
-  border: 1px solid steelblue;
+  border: 1px solid midnightblue;
   margin-bottom: 2%;
   margin-top: 1%;
-  margin-right: 2%;
+  margin: 2%;
 }
 h3 {
   text-align: center;
