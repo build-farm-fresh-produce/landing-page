@@ -196,6 +196,11 @@ footer {
 .bottom {
   width: 100%;
 }
+@media (max-width: 500px) {
+  .bottom {
+    width: 55%;
+  }
+}
 .images {
   width: 20%;
   height: 20vh;
@@ -206,6 +211,11 @@ footer {
   margin-bottom: 2%;
   margin-top: 1%;
   margin: 2%;
+}
+@media (max-width: 500px) {
+  .images {
+    width: 50%;
+  }
 }
 h3 {
   text-align: center;
