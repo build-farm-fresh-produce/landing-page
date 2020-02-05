@@ -134,7 +134,7 @@ body {
   height: 100%;
   font-family: 'Comfortaa', cursive;
   background-color: whitesmoke;
-  background-image: url("https://images.unsplash.com/photo-1495195129352-aeb325a55b65?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1055&q=80");
+  background: url('https://images.unsplash.com/photo-1495195129352-aeb325a55b65?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60') top center / 100% 100% no-repeat fixed padding-box content-box transparent;
 }
 h1,
 h2,
@@ -144,6 +144,12 @@ h5 {
   font-family: 'Bebas Neue', cursive;
   letter-spacing: 1px;
   margin-bottom: 15px;
+}
+h1,
+h2,
+h3,
+p {
+  margin-left: 1%;
 }
 h1 {
   font-size: 280%;
@@ -160,6 +166,7 @@ nav {
   justify-content: center;
   background-color: lightgreen;
   padding: 2%;
+  margin-bottom: 1%;
 }
 a {
   font-size: 120%;
@@ -173,4 +180,16 @@ footer {
 .images {
   width: 20%;
   height: 20vh;
+}
+.find {
+  display: flex;
+}
+.connect {
+  display: flex;
+}
+.advertise {
+  display: flex;
+}
+.reachout {
+  display: flex;
 }
